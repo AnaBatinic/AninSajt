@@ -1,0 +1,15 @@
+Ovaj sajt je namenjen za informisanje o društvenim igrama.
+U navigaciji postoje linkove ka ostalim stranama, kao što su:
+
+Pocetna strana (Home): prikaz društvenih igara koje će uskoro izaći. Na ovoj stranici mogu se videti slika i kratak opis društvenih igara.
+
+Igre (Games): galerija sa društvenim igrama i njihove cene. Na ovoj stranici mogu se sortirati društvene igre u rastućem i opadajućem abecednom poretku ili pretražiti društvene igre na osnovu unete reči.
+Klikom na jednu od igara otvara se jedna stranica, gde korisnik može da vidi više informacija o izabranoj igri.
+
+Kontakt (Contact) - na ovoj stranici korisnici mogu da pošalju poruku administratoru.
+
+Login - na ovoj stranici korisnici mogu da se uloguju.
+
+Register - na ovoj stranici korisnici mogu da kreiraju svoj korisnički nalog.
+
+U slučaju da ulogovani korisnik ima ulogu administratora pojavljuje mu se link ka strani admin panel. Na ovoj stranici ima mogućnost da dodaje, modifikuje i briše korisnike i društvene igre.
